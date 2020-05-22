@@ -2,7 +2,7 @@
 
 > Contributor : Kavish Pandit 
 
-<h1 align="center">Welcome to Task Manager-node 👋</h1>
+<h1 align="center">Welcome to Task Manager-node API 👋</h1>
 
 > Task manager api built on Nodejs which utilizes MongoDB
 
