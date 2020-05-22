@@ -1,3 +1,7 @@
+## The Pixelated Coder  :man_technologist:
+
+> Contributor : Kavish Pandit 
+
 <h1 align="center">Welcome to Task Manager-node 👋</h1>
 
 > Task manager api built on Nodejs which utilizes MongoDB
