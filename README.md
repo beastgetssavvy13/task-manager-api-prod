@@ -6,7 +6,8 @@
 
 > Task manager api built on Nodejs which utilizes MongoDB
 
-### 🏠 [Root url:](https://github.com/beastgetssavvy13/task-manager-api-prod)<br>
+## 🏠 Root url :
+[https://github.com/beastgetssavvy13/task-manager-api-prod:](https://github.com/beastgetssavvy13/task-manager-api-prod)<br>
 
 ## Description :
 Usage and Test Recommended in Postman. Back-end web API created using Node JS and MongoDB. This API facilitates users to create profile, note down tasks, send emails etc
